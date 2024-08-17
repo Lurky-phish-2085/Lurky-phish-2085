@@ -10,7 +10,7 @@ I'm currently working on my programming skills by developing various projects<br
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Lurky-phish-2085&theme=default&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username= Lurky-phish-2085&theme=default&no-frame=false&no-bg=false&margin-w=4)
+![](https://github-profile-trophy.vercel.app/?username=Lurky-phish-2085&theme=default&no-frame=false&no-bg=false&margin-w=4)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=Lurky-phish-2085&icon=5&color=0)](https://visitcount.itsvg.in)
